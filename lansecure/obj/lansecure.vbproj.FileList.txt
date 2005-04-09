@@ -1,0 +1,10 @@
+bin\Debug\lansecure.exe
+bin\Debug\lansecure.pdb
+bin\Debug\lansecure.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\lansecure.Form1.resources
+obj\Debug\lansecure.Resources.resources
+obj\Debug\lansecure.vbproj.GenerateResource.Cache
+obj\Debug\lansecure.exe
+obj\Debug\lansecure.xml
+obj\Debug\lansecure.pdb
