@@ -1,5 +1,9 @@
 # LANSecure
 
+<p align="center">
+  <img src=".github/logo.png" alt="lansecure logo" width="128" />
+</p>
+
 A Windows Forms tool that watches a local network for unknown devices.
 
 ## What it does
